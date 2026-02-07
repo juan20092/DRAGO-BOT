@@ -42,17 +42,17 @@
 
 ## 📖 Descripción
 
-**GENOS BOT** es un bot de WhatsApp de próxima generación que combina potencia, velocidad y personalización extrema. Con una **arquitectura modular** basada en plugins independientes, este bot te permite crear tu propia experiencia sin límites.
+**DRAGO BOT** 𝐞𝐬 𝐮𝐧 𝐛𝐨𝐭 𝐝𝐞 𝐖𝐡𝐚𝐭𝐬𝐀𝐩𝐩 𝐝𝐞 𝐩𝐫𝐨́𝐱𝐢𝐦𝐚 𝐠𝐞𝐧𝐞𝐫𝐚𝐜𝐢𝐨́𝐧 𝐪𝐮𝐞 𝐜𝐨𝐦𝐛𝐢𝐧𝐚 𝐩𝐨𝐭𝐞𝐧𝐜𝐢𝐚, 𝐯𝐞𝐥𝐨𝐜𝐢𝐝𝐚𝐝 𝐲 𝐩𝐞𝐫𝐬𝐨𝐧𝐚𝐥𝐢𝐳𝐚𝐜𝐢𝐨́𝐧 𝐞𝐱𝐭𝐫𝐞𝐦𝐚.     𝐂𝐨𝐧 𝐮𝐧𝐚 **arquitectura modular** 𝐛𝐚𝐬𝐚𝐝𝐚 𝐞𝐧 𝐩𝐥𝐮𝐠𝐢𝐧𝐬 𝐢𝐧𝐝𝐞𝐩𝐞𝐧𝐝𝐢𝐞𝐧𝐭𝐞𝐬, 𝐞𝐬𝐭𝐞 𝐛𝐨𝐭 𝐭𝐞 𝐩𝐞𝐫𝐦𝐢𝐭𝐞 𝐜𝐫𝐞𝐚𝐫 𝐭𝐮 𝐩𝐫𝐨𝐩𝐢𝐚 𝐞𝐱𝐩𝐞𝐫𝐢𝐞𝐧𝐜𝐢𝐚 𝐬𝐢𝐧 𝐥𝐢́𝐦𝐢𝐭𝐞𝐬.
 
 ---
 
-### **`CREADOR DEL BOT 🥷🏼⚡️`**
+### **`𝐂𝐑𝐄𝐀𝐃𝐎𝐑 𝐃𝐄𝐋 𝐁𝐎𝐓 🍷`**
 <div style="display: flex; gap: 10px;">
   <a href="https://github.com/juan20092" style="text-decoration: none;">
     <img src="https://github.com/juan20092.png" width="130" height="130" alt="xzzys26" style="border-radius: 50%;" />
   </a>
 
-### **`CREDITOS👑`**
+### **`𝐂𝐑𝐄𝐃𝐈𝐓𝐎𝐒 📣`**
 <div style="display: flex; gap: 10px;">
   <a href="https://github.com/juan20092" style="text-decoration: none;">
     <img src="https://github.com/juan20092.png" width="130" height="130" alt="JUANOFC" style="border-radius: 50%;" />

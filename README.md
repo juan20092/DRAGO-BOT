@@ -10,7 +10,7 @@
 ---
 
 <div align="center">
-  <img src="https://files.catbox.moe/e4qg5o.jpg" width="500" />
+  <img src="https://cdn.russellxz.click/3331708f.jpg" width="500" />
 </div>
 
 ---

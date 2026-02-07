@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://cdn.russellxz.click/3331708f.jpg" alt="DRAGO BOT Banner" width="600"/>
   <h1>𝐃𝐑𝐀𝐆𝐎 𝐁𝐎𝐓 🍷</h1>
-  <p><b>El bot más cull, divertido y poderoso para WhatsApp</b></p>
+  <p><b>El bot más divertido y poderoso para WhatsApp</b></p>
   <p>Creado por <b>𝔍𝒖𝒂𝒏</b> | Powered by <b>🍷</b></p>
 </div>
 

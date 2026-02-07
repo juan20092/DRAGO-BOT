@@ -1,6 +1,6 @@
 <!-- Banner -->
 <h1 align="center">
-  <img src="https://cdn.russellxz.click/c9085457.jpg" width="700" alt="𝐆𝐄𝐍𝐎𝐒 𝐁𝐎𝐓"/>
+  <img src="https://files.catbox.moe/t2yt9v.jpg" width="700" alt="𝐆𝐄𝐍𝐎𝐒 𝐁𝐎𝐓"/>
   <br>
   🌪️ Genos Bot 🌪️
 </h1>

@@ -1,16 +1,16 @@
 > [!IMPORTANT]
-> **Este proyecto está en constante evolución. Estamos comprometidos en ofrecer a nuestra comunidad un Bot increíble. Te invitamos a instalarlo y para estar al tanto de todas las novedades. [¡Únete a nuestro nuevo canal!](https://whatsapp.com/channel/0029VbBvZH5LNSa4ovSSbQ2N)**
+> **Este proyecto está en constante evolución. Estamos comprometidos en ofrecer a nuestra comunidad un Bot increíble. Te invitamos a instalarlo y para estar al tanto de todas las novedades. [¡Únete a nuestro nuevo canal!](https://whatsapp.com/channel/0029VbARAwbEgGfOsCN1T10V)**
 
 <p align="center"> 
-<a href="https://github.com/leoxito"><img src="https://readme-typing-svg.herokuapp.com?font=Boldonse&size=15&duration=3000&pause=1000&color=FF69B4&center=true&width=435&lines=Bienvenido+al+repositorio+actualizado;🌸+Itsuki+Nakano+IA+Wabot+V4;✨+La+evolución+definitiva;🎀+Bot+multifuncional+avanzado!" height="90px"></a>
+<a href="https://github.com/juan20092"><img src="https://readme-typing-svg.herokuapp.com?font=Boldonse&size=15&duration=3000&pause=1000&color=FF69B4&center=true&width=435&lines=Bienvenido+al+repositorio+actualizado;🔥+Drago;✨+La+evolución+definitiva;🔥+Bot+multifuncional+avanzado!" height="90px"></a>
 </p>
 
 <p align="center">
-  <img src="https://cdn.russellxz.click/f76a4c5c.jpg" width="900" alt="Banner del Proyecto" />
+  <img src="https://cdn.russellxz.click/3331708f.jpg" width="900" alt="Banner del Proyecto" />
 </p>
 
 <p align="center"> 
-<a href="#"><img title="Itsuki Nakano Wabot V4" src="https://img.shields.io/badge/Disfruta_De_Un_Bot_Funcional_y_Actualizado_Con_Un_Sistema_Óptimizado-pink?colorA=ff69b4&colorB=c71585&style=for-the-badge"></a> 
+<a href="#"><img title="DRAGO BOT" src="https://img.shields.io/badge/Disfruta_De_Un_Bot_Funcional_y_Actualizado_Con_Un_Sistema_Óptimizado-pink?colorA=ff69b4&colorB=c71585&style=for-the-badge"></a> 
 </p>
 
 

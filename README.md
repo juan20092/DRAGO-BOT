@@ -3,7 +3,7 @@
   <img src="https://files.catbox.moe/rezvmu.jpg" width="700" alt="DRAGON BOT"/>
 <h1 align="center">
   <p align="center"><b>𝐃𝐑𝐀𝐆𝐎 𝐁𝐎𝐓 🍷</b></p>
-  <p align="center"><b>El bot más cull, divertido y poderoso para WhatsApp</b></p>
+  <p align="center"><b>𝐄𝐋 𝐁𝐎𝐓 𝐌𝐀𝐒 𝐃𝐈𝐕𝐄𝐑𝐓𝐈𝐃𝐎 𝐘 𝐏𝐎𝐃𝐄𝐑𝐎𝐒𝐎 𝐏𝐀𝐑𝐀 𝐖𝐇𝐀𝐒𝐓𝐒𝐀𝐏𝐏 🗡️</b></p>
   <p align="center">Creado por <b>𝔍𝒖𝒂𝒏</b> | Powered by <b>🍷</b></p>
 </div>
 </h1>

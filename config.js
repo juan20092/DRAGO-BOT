@@ -1,0 +1,36 @@
+import { watchFile, unwatchFile } from 'fs'
+import chalk from 'chalk'
+import { fileURLToPath } from 'url'
+
+global.owner = [
+'165043362652249', 
+'527732671011'
+''
+] 
+
+global.mods = []
+global.prems = []
+
+global.emoji = '🍷'
+global.emoji2 = '🍷'
+global.namebot = '𝐃𝐑𝐀𝐆𝐎 𝐁𝐎𝐓 🍷'
+global.botname = '𝐃𝐑𝐀𝐆𝐎 𝐁𝐎𝐓 🍷'
+global.banner = 'https://cdn.russellxz.click/3331708f.jpg'
+global.packname = '𝐃𝐑𝐀𝐆𝐎 𝐁𝐎𝐓 🍷'
+global.author = '© 𝙋𝙤𝙬𝙚𝙧𝙚𝙙 𝔍𝒖𝒂𝒏'
+global.sessions = '𝐃𝐑𝐀𝐆𝐎 𝐁𝐎𝐓 🍷'
+
+global.APIs = {
+may: 'https://mayapi.ooguy.com'
+}
+
+global.APIKeys = {
+may: 'may-0595dca2'
+}
+
+const file = fileURLToPath(import.meta.url)
+watchFile(file, () => {
+unwatchFile(file)
+console.log(chalk.redBright("Se actualizó el 'config.js'"))
+import(`file://${file}?update=${Date.now()}`)
+})

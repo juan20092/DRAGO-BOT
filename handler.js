@@ -125,7 +125,7 @@ console.error(e)
 
 if (typeof m.text !== "string") m.text = ""
 
-/* === STICKER → COMANDO GLOBAL === */
+
 try {
   // Detectar sticker
   const st = m.message?.stickerMessage || m.message?.ephemeralMessage?.message?.stickerMessage || null;
@@ -150,7 +150,7 @@ try {
       }
     }
 
-    // Buscar comando asociado
+  
     let mapped = null;
     for (const k of candidates) {
       if (map[k] && map[k].trim()) {
@@ -164,17 +164,17 @@ try {
       const pref = (Array.isArray(global.prefixes) && global.prefixes[0]) || ".";
       const injected = mapped.startsWith(pref) ? mapped : pref + mapped;
 
-      // Inyectar como m.text para que el handler lo vea como comando
+
       m.text = injected.toLowerCase();
 
-      // Debug
+      
       console.log("✅ Sticker detectado, comando inyectado:", m.text);
     }
   }
 } catch (e) {
   console.error("❌ Error Sticker→cmd:", e);
 }
-/* === FIN STICKER → COMANDO === */
+
 
 const user = global.db.data.users[m.sender]
 try {
@@ -217,13 +217,13 @@ if (m.isGroup) {
         groupMetadata = await this.groupMetadata(m.chat)  // <-- Cambiar conn por this
         participants = groupMetadata.participants || []
 
-        // Buscar al usuario actual
+        
         const userParticipant = participants.find(p => p.id === m.sender)
         isRAdmin = userParticipant?.admin === 'superadmin' || m.sender === groupMetadata.owner
         isAdmin = isRAdmin || userParticipant?.admin === 'admin'
 
-        // Buscar al bot
-        const botParticipant = participants.find(p => p.id === this.user.jid)  // <-- Cambiar conn por this
+       
+        const botParticipant = participants.find(p => p.id === this.user.jid)  
         isBotAdmin = botParticipant?.admin === 'admin' || botParticipant?.admin === 'superadmin'
 
         // Mantener compatibilidad con código antiguo

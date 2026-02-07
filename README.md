@@ -14,12 +14,6 @@
 </p>
 
 <p align="center">
-  <strong>Bot de WhatsApp multipropósito de última generación</strong><br>
-  Basado en <a href="https://github.com/whiskeysockets/baileys">Baileys MD</a> con arquitectura modular<br>
-  Inspirado en la estética y poder ⚡
-</p>
-
-<p align="center">
   <a href="https://wa.me/573223702049">
     <img src="https://img.shields.io/badge/Soporte-WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
   </a>

@@ -1,6 +1,7 @@
 <!-- Banner -->
 <h1 align="center">
   <img src="https://files.catbox.moe/rezvmu.jpg" width="700" alt="𝐆𝐄𝐍𝐎𝐒 𝐁𝐎𝐓"/>
+<h1 align="center">
   <h1>𝐃𝐑𝐀𝐆𝐎 𝐁𝐎𝐓 🍷</h1>
   <p><b>El bot más cull, divertido y poderoso para WhatsApp</b></p>
   <p>Creado por <b>𝔍𝒖𝒂𝒏</b> | Powered by <b>🍷</b></p>

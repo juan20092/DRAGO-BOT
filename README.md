@@ -2,11 +2,11 @@
 > **Este proyecto está en constante evolución. Estamos comprometidos en ofrecer a nuestra comunidad un Bot increíble. Te invitamos a instalarlo y para estar al tanto de todas las novedades. [¡Únete a nuestro nuevo canal!](https://whatsapp.com/channel/0029VbARAwbEgGfOsCN1T10V)**
 
 <p align="center"> 
-<a href="https://github.com/juan20092"><img src="https://readme-typing-svg.herokuapp.com?font=Boldonse&size=15&duration=3000&pause=1000&color=FF69B4&center=true&width=435&lines=Bienvenido+al+repositorio+actualizado;🔥+Drago;✨+La+evolución+definitiva;🔥+Bot+multifuncional+avanzado!" height="90px"></a>
+<a href="https://github.com/juan20092"><img src="https://readme-typing-svg.herokuapp.com?font=Boldonse&size=15&duration=3000&pause=1000&color=FF69B4&center=true&width=435&lines=Bienvenido+al+repositorio+actualizado;🔥+DRAGO+BOT;✨+La+evolución+definitiva;🔥+Bot+multifuncional+avanzado!" height="90px"></a>
 </p>
 
 <p align="center">
-  <img src="https://cdn.russellxz.click/3331708f.jpg" width="900" alt="Banner del Proyecto" />
+  <img src="https://cdn.russellxz.click/3331708f.jpg" width="700" alt="Banner del Proyecto" />
 </p>
 
 <p align="center"> 

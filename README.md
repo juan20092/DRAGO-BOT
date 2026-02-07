@@ -1,15 +1,19 @@
 <div align="center">
   <img 
     src="https://cdn.russellxz.click/2c3c4fcd.jpg"
-    alt="DRAGO BOT Banner"
-    style="max-width:100%; height:auto; border-radius:12px;"
+    alt="DRAGON BOT"
+    style="
+      max-width: 100%;
+      width: 420px;
+      height: auto;
+      border-radius: 14px;
+      image-rendering: auto;
+    "
   />
-</div>
   <h1>𝐃𝐑𝐀𝐆𝐎 𝐁𝐎𝐓 🍷</h1>
   <p><b>El bot más divertido y poderoso para WhatsApp</b></p>
   <p>Creado por <b>𝔍𝒖𝒂𝒏</b> | Powered by <b>🍷</b></p>
 </div>
-
 ---
 
 ## 🚀 Características principales

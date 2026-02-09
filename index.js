@@ -202,7 +202,7 @@ console.log(chalk.bold.white(chalk.bgMagenta(`[⛧]  Código de Vinculacion:`)),
 }}}}
 conn.isInit = false
 conn.well = false
-conn.logger.info(`[♠] Hecho exitosamente...\n`)
+conn.logger.info(`[🍷] Hecho exitosamente...\n`)
 if (!opts['test']) {
 if (global.db) setInterval(async () => {
 if (global.db.data) await global.db.write()

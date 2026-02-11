@@ -373,13 +373,15 @@ console.log(m.message)
 
 global.dfail = (type, m, conn,rcanal) => {
 const msg = {
-        rowner: "  `𝖤𝗌𝗍𝖺 𝖿𝗎𝗇𝖼𝗂𝗈́𝗇 𝗌𝗈𝗅𝗈 𝗉𝗎𝖾𝖽𝖾 𝗌𝖾𝗋 𝗎𝗍𝗂𝗅𝗂𝗓𝖺𝖽𝖺 𝗉𝗈𝗋 𝖾𝗅 𝖼𝗋𝖾𝖺𝖽𝗈𝗋 𝖽𝖾𝗅 𝖻𝗈𝗍`🪡",
-        owner: " _  *`𝖤𝗌𝗍𝖺 𝖿𝗎𝗇𝖼𝗂𝗈́𝗇 𝗌𝗈𝗅𝗈 𝗉𝗎𝖾𝖽𝖾 𝗌𝖾𝗋 𝗎𝗍𝗂𝗅𝗂𝗓𝖺𝖽𝖺 𝗉𝗈𝗋 𝖾𝗅 𝗉𝗋𝗈𝗉𝗂𝖾𝗍𝖺𝗋𝗂𝗈 𝖽𝖾𝗅 𝖻𝗈𝗍 🤹`*_",
-        group: "   _*`𝖤𝗌𝗍𝖾 𝖼𝗈𝗆𝖺𝗇𝖽𝗈 𝗌𝗈𝗅𝗈 𝗉𝗎𝖾𝖽𝖾 𝗌𝖾𝗋 𝖾𝗃𝖾𝖼𝗎𝗍𝖺𝖽𝗈 𝖾𝗇 𝗀𝗋𝗎𝗉𝗈𝗌 🏘️`*_",
-        private: " _*`𝖤𝗌𝗍𝖺 𝖿𝗎𝗇𝖼𝗂𝗈́𝗇 𝗌𝗈𝗅𝗈 𝗉𝗎𝖾𝖽𝖾 𝗌𝖾𝗋 𝖾𝗃𝖾𝖼𝗎𝗍𝖺𝖽𝖺 𝖾𝗇 𝗆𝗂 𝖼𝗁𝖺𝗍 𝗉𝗋𝗂𝗏𝖺𝖽𝗈 🗡️`*_",
-        admin: "  _*`𝖤𝗌𝗍𝖾 𝖼𝗈𝗆𝖺𝗇𝖽𝗈 𝗌𝗈𝗅𝗈 𝗉𝗎𝖾𝖽𝖾 𝗌𝖾𝗋 𝗎𝗍𝗂𝗅𝗂𝗓𝖺𝖽𝗈 𝗉𝗈𝗋 𝗅𝗈𝗌 𝖺𝖽𝗆𝗂𝗇𝗌 𝖽𝖾𝗅 𝗀𝗋𝗎𝗉𝗈 📣`*_",
-        botAdmin: "  _*`𝖯𝖺𝗋𝖺 𝗉𝗈𝖽𝖾𝗋 𝗎𝗌𝖺𝗋 𝖾𝗌𝗍𝖾 𝖼𝗈𝗆𝖺𝗇𝖽𝗈 𝖾𝗌 𝗇𝖾𝖼𝖾𝗌𝖺𝗋𝗂𝗈 𝗊𝗎𝖾 𝗒𝗈 𝗌𝖾𝖺 𝖺𝖽𝗆𝗂𝗇 🗡️`*_",
-        restrict: "> _*`𝖤𝗌𝗍𝖺 𝖿𝗎𝗇𝖼𝗂𝗈́𝗇 𝖾𝗌𝗍𝖺 𝖽𝖾𝗌𝖺𝖼𝗍𝗂𝗏𝖺𝖽𝖺 𝗉𝗈𝗋 𝖾𝗅 𝖺𝖼𝗍𝗎𝖺𝗅 𝗈𝗐𝗇𝖾𝗋 🧨`*_"
+rowner: '```¡¡ESTA FUNCIÓN SOLO PUEDE SER USADA POR MI CREADOR!!```', 
+owner: '```¡¡ESTA FUNCIÓN SOLO PUEDE SER USADA POR MI DESARROLLADOR!!```', 
+mods: '```¡¡ESTA FUNCIÓN SOLO PUEDE SER USADA POR MIS DESARROLLADORES!!```', 
+premium: '```¡¡ESTA FUNCIÓN SOLO ES PARA USUARIOS PREMIUM!!```', 
+group: '```¡¡ESTA FUNCION SOLO PUEDE SER EJECUTADA EN GRUPOS!!```', 
+private: '```¡¡ESTA FUNCIÓN SOLO PUEDE SER USADA EN CHAT PRIVADO!!```', 
+admin: '```¡¡ESTE COMANDO SOLO PUEDE SER USADO POR ADMINS!!```', 
+botAdmin: '```¡¡PARA USAR ESTA FUNCIÓN DEBO SER ADMIN DEL GRUPO!!```', 
+restrict: '```¡¡ESTA CARACTERÍSTICA ESTA DESACTIVADA!!```'
 }[type]
 if (msg) return conn.reply(m.chat, msg, m, global.rcanal).then(() => m.react("✖️"))
 }

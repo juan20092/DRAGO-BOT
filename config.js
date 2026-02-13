@@ -2,14 +2,17 @@ import { watchFile, unwatchFile } from 'fs'
 import chalk from 'chalk'
 import { fileURLToPath } from 'url'
 
+//• ↳𝑺𝑶𝑳𝑶 𝑫𝑬𝑺𝑨𝑹𝑹𝑶𝑳𝑳𝑨𝑫𝑶𝑹𝑬𝑺 𝑨𝑷𝑹𝑶𝑩𝑨𝑫𝑶𝑺
 global.owner = [
 '165043362652249', 
 '527732671011'
 ] 
 
-global.mods = []
+//• ↳𝑺𝑶𝑳𝑶 𝑴𝑶𝑫𝑬𝑹𝑨𝑫𝑶𝑹𝑬𝑺!
+global.mods = [573223702049]
 global.prems = []
 
+//• ↳ ◜𝑴𝑨𝑹𝑪𝑨𝑺 𝑫𝑬 𝑨𝑮𝑼𝑨◞ • 💌
 global.emoji = '🍷'
 global.emoji2 = '🍷'
 global.namebot = '𝐃𝐑𝐀𝐆𝐎 𝐁𝐎𝐓 🍷'

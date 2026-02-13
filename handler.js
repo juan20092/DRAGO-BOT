@@ -383,7 +383,7 @@ admin: '```¡¡ESTE COMANDO SOLO PUEDE SER USADO POR ADMINS!!```',
 botAdmin: '```¡¡PARA USAR ESTA FUNCIÓN DEBO SER ADMIN DEL GRUPO!!```', 
 restrict: '```¡¡ESTA CARACTERÍSTICA ESTA DESACTIVADA!!```'
 }[type]
-if (msg) return conn.reply(m.chat, msg, m, global.rcanal).then(() => m.react("✖️"))
+if (msg) return conn.reply(m.chat, msg, m, global.rcanal).then(() => m.react("🚫"))
 }
 
 let file = global.__filename(import.meta.url, true)
